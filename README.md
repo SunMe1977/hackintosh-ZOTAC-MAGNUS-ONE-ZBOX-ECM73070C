@@ -86,6 +86,11 @@ The macOS Wi‑Fi menu will not work. This is expected.
 - SATA Mode: AHCI
 - Boot Mode: UEFI only
 
+## Troubleshooting
+OpenCore not appearing in BIOS after you copy to HD EFI
+bcdedit /set {bootmgr} path \EFI\OC\OpenCore.efi
+
+
 ## Credits
 
 - farcop for the original EFI  
