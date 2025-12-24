@@ -2,7 +2,7 @@
 
 This EFI is based on the original work from:  
 https://github.com/farcop/hackintosh  
-I updated it to the latest OpenCore, added fixes, and enabled support for macOS Tahoe (macOS 15).
+I updated it to the latest OpenCore, added fixes, and enabled support for macOS Tahoe (macOS 26.1).
 
 ![Device](pictures/zotac-magnus-one.jpeg)
 
@@ -48,7 +48,7 @@ Model: ZOTAC MAGNUS ONE ZBOX‑ECM73070C / 53060C
 
 ## Installation
 
-1. Download the macOS Tahoe installer image from Olarila:  
+1. Download the macOS Tahoe installer vanilla image from Olarila:  
    https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
 2. Flash the image to a USB stick using balenaEtcher:  
    https://etcher.balena.io/
@@ -92,3 +92,4 @@ The macOS Wi‑Fi menu will not work. This is expected.
 - OpenCore team  
 - OpenIntelWireless (itlwm / HeliPort)  
 - Dortania guides
+- Copilot and Chatgpt for config and debug help
