@@ -88,7 +88,7 @@ The macOS Wi‑Fi menu will not work. This is expected.
 
 ## Troubleshooting
 OpenCore not appearing in BIOS after you copy to HD EFI
-bcdedit /set {bootmgr} path \EFI\OC\OpenCore.efi
+under Windows CMD Admin : bcdedit /set {bootmgr} path \EFI\OC\OpenCore.efi
 
 
 ## Credits
