@@ -55,8 +55,15 @@ Model: ZOTAC MAGNUS ONE ZBOX‑ECM73070C / 53060C
 3. Mount the USB’s EFI partition (e.g., using MountEFI):  
    https://github.com/corpnewt/MountEFI
 4. Clone this repository.
-5. Copy the EFI folder from this repo to the USB’s EFI partition.
-6. Boot from the USB stick and install macOS.
+5. Use Explorer++ to copy EFI folder https://explorerplusplus.com/download
+6. Copy the EFI folder from this repo to the USB’s EFI partition.
+7. Boot from the USB stick and install macOS.
+
+
+You can use OCAuxiliaryTools OCAT to update config and or
+validate the current plist https://github.com/ic005k/OCAuxiliaryTools/releases
+actual version is validated with 0 conflicts against Opencore DEV 1.0.6
+
 
 ## Wi‑Fi Notes (Important for macOS Tahoe)
 
