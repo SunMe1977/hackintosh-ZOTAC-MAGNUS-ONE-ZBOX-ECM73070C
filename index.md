@@ -1,6 +1,8 @@
 # ZOTAC MAGNUS ONE ZBOX‑ECM73070C Hackintosh (macOS Tahoe 26.1 + OpenCore 1.0.6)
 
-This is the official GitHub Pages site for the Hackintosh EFI project. 👉 **Full EFI, documentation and downloads:** https://github.com/SunMe1977/hackintosh-ZOTAC-MAGNUS-ONE-ZBOX-ECM73070C
+This is the official GitHub Pages site for the Hackintosh EFI project. 
+👉 **Full EFI, documentation and downloads:
+**[Hackintosh ZOTAC Magnus One Repository](https://github.com/SunMe1977/hackintosh-ZOTAC-MAGNUS-ONE-ZBOX-ECM73070C)
 
 This EFI is based on the original work from:  
 https://github.com/farcop/hackintosh  
