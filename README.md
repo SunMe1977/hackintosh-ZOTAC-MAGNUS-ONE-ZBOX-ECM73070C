@@ -5,7 +5,8 @@ https://github.com/farcop/hackintosh
 I updated it to the latest OpenCore, added fixes, and enabled full support for macOS Tahoe (macOS 26.1).
 
 ![Device](pictures/zotac-magnus-one.jpeg)
-
+![Device](pictures/ScreenshotTahoe1.png)
+![Device](pictures/ScreenshotTahoe2.png)
 ---
 
 ## Hardware
