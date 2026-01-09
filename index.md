@@ -4,6 +4,7 @@ This is the official GitHub Pages site for the Hackintosh EFI project. 👉 **Fu
 
 This EFI is based on the original work from:  
 https://github.com/farcop/hackintosh  
+
 I updated it to the latest OpenCore, added fixes, and enabled full support for macOS Tahoe (macOS 26.1).
 
 ![Device](pictures/zotac-magnus-one.jpeg)
