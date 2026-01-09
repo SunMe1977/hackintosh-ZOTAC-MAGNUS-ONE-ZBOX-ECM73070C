@@ -3,6 +3,7 @@
 This is the official GitHub Pages site for the Hackintosh EFI project. 
 
 👉 **Full EFI, documentation and downloads:**  
+
 [Hackintosh ZOTAC Magnus One Repository](https://github.com/SunMe1977/hackintosh-ZOTAC-MAGNUS-ONE-ZBOX-ECM73070C)
 
 
